@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arnhol Pacori</h1>
 <h3 align="center">Frontend developer apasionado de Perú</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arnholp&label=Profile%20views&color=0e75b6&style=flat" alt="arnholp" /> </p>
-
-- 👨‍💻 All of my projects are available at [www.arnhol.com](www.arnhol.com)
+- 📝 I regularly write articles on [www.arnhol.com](www.arnhol.com)
 
 - 💬 Ask me about **Desarrollo web**
 
